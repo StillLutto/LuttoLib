@@ -1,0 +1,4 @@
+name: LuttoLib
+version: '${project.version}'
+main: me.lutto.luttolib.LuttoLib
+api-version: '1.20'
