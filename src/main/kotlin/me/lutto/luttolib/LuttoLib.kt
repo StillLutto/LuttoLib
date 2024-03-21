@@ -8,5 +8,8 @@ class LuttoLib : JavaPlugin() {
 
     }
 
-    fun test(): String = "test"
+    companion object {
+        fun test(): String = "test"
+    }
+
 }
