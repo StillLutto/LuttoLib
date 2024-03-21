@@ -25,7 +25,7 @@ dependencies {
 group = "me.lutto"
 version = "0.0.1"
 description = "LuttoLib"
-java.sourceCompatibility = JavaVersion.VERSION_1_8
+java.sourceCompatibility = JavaVersion.VERSION_21
 
 publishing {
     publications.create<MavenPublication>("maven") {
